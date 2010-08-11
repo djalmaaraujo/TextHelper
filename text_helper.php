@@ -8,7 +8,7 @@
 class TextHelper extends Helper {
 
 	/**
-	 * End phrase
+	 * Substr phrase
 	 *
 	 * Cut phrases without cuting words
 	 * 

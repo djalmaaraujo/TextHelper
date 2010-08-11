@@ -10,7 +10,7 @@ class TextHelper extends Helper {
 	/**
 	 * Substr phrase
 	 *
-	 * Cut phrases without cuting words
+	 * Cut phrases without cutting words
 	 * 
 	 * @param string 	$text text
 	 * @param integer $maxlenght Max numbers of characters for return text

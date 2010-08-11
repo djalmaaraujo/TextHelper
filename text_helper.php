@@ -43,7 +43,7 @@ class TextHelper extends Helper {
 						$i = 1;
 						return $text;
 					endif;
-					$c = ($allow_exceed_word == null) ? $c = $c+1 : $c = $c-1;
+					$c = ($allow_exceed_word == null) ? $c = $c-1 : $c = $c+1;
 				endif;
 			endwhile;
 		endif;
